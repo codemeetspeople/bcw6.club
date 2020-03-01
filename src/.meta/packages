@@ -2,3 +2,4 @@ django==3.0.3
 ipdb==0.13.1
 ipython==7.13.0
 psycopg2-binary==2.8.4
+django-jinja==2.6.0
