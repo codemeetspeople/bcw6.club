@@ -25,7 +25,7 @@ SECRET_KEY = '+m0g^n4)(#*1tn93i+mg1ul)6j0c!#^9%f7sbod3r3ud%a0($b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bcw6.club']
 
 
 # Application definition

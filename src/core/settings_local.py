@@ -59,3 +59,4 @@ TEMPLATES = [
 ]
 
 LANGUAGE_CODE = 'ru-ru'
+STATIC_ROOT = '/var/www/bcw6-static/'
